@@ -94,7 +94,7 @@ Você deve implementar a lista encadeada **respeitando o paradigma da linguagem*
 
 ### 🔹 Estrutura
 
-Será utilizado um modelo com múltiplos repositórios:
+Será utilizado um modelo com repositórios:
 
 - 1 repositório principal
 - 1 repositório por aluno
@@ -118,3 +118,12 @@ Exemplo:
 - Rafael (Nim): https://github.com/usuario/edc-p1-2026-projeto-nim  
 - Alberto (Julia): https://github.com/usuario/edc-p1-2026-projeto-julia  
 - Caio (Lean): https://github.com/usuario/edc-p1-2026-projeto-lean  
+
+### 🔹 Gravação da execução e lista de ferramentas
+- Será necessário também que o aluno grave a sua própria tela durante o processo de codificação do projeto.
+- Embora o uso de IA // LLMs seja permitido para auxiliar a implementação do projeto, é expressamente proibido copiar-e-colar código pronto gerado por qualquer outra ferramenta.
+- Também será necessário listar exatamente quais ferramentas foram utilizadas para implementação do projeto.
+
+## Material de auxilio
+Nesse mesmo repositório, há um arquivo [langs.md](./langs.md) com dicas de como criar listas encadeadas em cada uma das linguagens a serem utilizadas.
+deverá ser utilizado os exemplos como base para implementação do enunciado.
