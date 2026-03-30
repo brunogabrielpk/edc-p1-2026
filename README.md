@@ -105,6 +105,7 @@ Deve conter:
 
 - Este enunciado
 - Lista de links para os repositórios dos alunos
+- **Passo-a-passo de como instalar // rodar a sua aplicação localmente para critérios de correção.**
 
 Exemplo:
 
